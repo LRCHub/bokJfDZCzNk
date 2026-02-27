@@ -1,0 +1,60 @@
+# Henry Moodie – drunk text
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.49] 5th of November
+[00:04.03] When I walked you home
+[00:08.15] That's when I nearly said it
+[00:10.64] But then said "Forget it," and froze
+[00:15.88] Do you remember?
+[00:19.33] You probably don't
+[00:23.32] 'Cause the sparks in the sky took a hold of your eyes while we spoke
+[00:57.32] 
+[00:31.44] Yesterday, drank way too much
+[00:35.10] And stayed up too late
+[00:37.38] Started to write what I wanna say
+[00:40.97] Deleted the message
+[00:42.72] But I still remember it said
+[00:56.72] 
+[00:46.43] I wish I was who you drunk texted at midnight
+[00:52.32] Wish I was the reason you stay up till 3
+[00:55.91] And you can't fall asleep
+[00:58.19] Waiting for me to reply
+[01:01.71] I wish I was more than just someone you walk by
+[01:07.53] Wish I wasn't scared to be honest and open
+[01:11.07] Instead of just hoping
+[01:13.25] You'd feel what I'm feeling inside
+[01:30.25] 
+[01:18.52] April the 7th
+[01:21.42] And nothing has changed
+[01:25.88] It's hard to get by
+[01:27.99] When you're still on my mind every day
+[01:33.00] Sometimes I question
+[01:36.53] If you feel the same?
+[01:41.16] Do we make stupid jokes?
+[01:43.06] Tryna hide that we're both too afraid to say
+[02:05.06] 
+[01:49.09] I wish I was who you drunk texted at midnight
+[01:54.82] Wish I was the reason you stay up till 3
+[01:58.28] And you can't fall asleep
+[02:00.58] Waiting for me to reply
+[02:04.46] I wish I was more than just someone you walk by
+[02:09.83] Wish I wasn't scared to be honest and open
+[02:13.94] Instead of just hoping
+[02:15.84] You'd feel what I'm feeling inside
+[02:32.84] 
+[02:19.87] Oh, and here we go again
+[02:23.15] Destroying myself to keep a friend
+[02:27.09] Hiding away 'cause I was afraid you'd say no
+[02:34.68] I wonder if I cross your mind
+[02:38.44] Half as much as you do mine
+[02:41.86] If I tell you the truth
+[02:44.20] What will I lose?
+[02:45.67] I don't know
+[02:51.67] 
+[02:49.88] I wish I'd sent you that drunk text that midnight
+[02:55.51] I was just scared it would ruin our friendship
+[02:59.37] But I really meant it
+[03:01.20] I wonder how you would reply
+```
