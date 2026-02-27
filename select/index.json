@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "drunk text",
+  "base_artist": "Henry Moodie",
+  "createdAt": "2026-02-27T15:29:01.785516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "drunk text me",
+      "artist": "Lexi Jayde",
+      "has_synced": true,
+      "path": "select/01_drunk_text_me_Lexi_Jayde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/02_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/03_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drunk Text Romance",
+      "artist": "Cyberbully Mom Club",
+      "has_synced": true,
+      "path": "select/04_Drunk_Text_Romance_Cyberbully_Mom_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Henry Moodie - drunk text (official video)",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/05_Henry_Moodie_-_drunk_text_(official_video)_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "HenryMoodieVEVO",
+      "has_synced": true,
+      "path": "select/06_drunk_text_HenryMoodieVEVO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lexi Jayde - drunk text me (Official Music Video)",
+      "artist": "Lexi Jayde",
+      "has_synced": true,
+      "path": "select/07_Lexi_Jayde_-_drunk_text_me_(Official_Music_Video)_Lexi_Jayde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "drunk text (official video)",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/08_drunk_text_(official_video)_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/09_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "drunk text me",
+      "artist": "Lexi Jayde",
+      "has_synced": true,
+      "path": "select/10_drunk_text_me_Lexi_Jayde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/11_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Henry Moodie - drunk text (official video)",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/12_Henry_Moodie_-_drunk_text_(official_video)_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "drunk text (official video)",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/13_drunk_text_(official_video)_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "drunk text me - Shallou Remix",
+      "artist": "Lexi Jayde feat. Shallou",
+      "has_synced": true,
+      "path": "select/14_drunk_text_me_-_Shallou_Remix_Lexi_Jayde_feat._Shallou.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "drunk text me - Shallou Remix",
+      "artist": "Lexi Jayde/Shallou",
+      "has_synced": true,
+      "path": "select/15_drunk_text_me_-_Shallou_Remix_Lexi_Jayde_Shallou.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/16_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/17_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": true,
+      "path": "select/18_drunk_text_Henry_Moodie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "drunk text",
+      "artist": "Henry Moodie",
+      "has_synced": false,
+      "path": "select/pl_01_drunk_text_Henry_Moodie.txt"
+    }
+  ]
+}
